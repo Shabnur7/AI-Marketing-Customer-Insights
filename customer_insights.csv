@@ -1,0 +1,9 @@
+review_id,rating,review,sentiment,customer_insight
+1,5,The sound quality is amazing and the battery lasts all day.,Positive,Strength
+2,4,Very comfortable and easy to connect to my phone.,Positive,Strength
+3,5,Great sound for the price. I use them every day.,Positive,Strength
+4,3,Sound is good but the microphone could be better.,Neutral,Needs Improvement
+5,2,Battery life is disappointing. It dies too quickly.,Negative,Pain Point
+6,5,I love how lightweight these earbuds are.,Positive,Strength
+7,4,Good value but the charging case feels cheap.,Positive,Strength
+8,3,"The sound is clear, but they sometimes disconnect.",Neutral,Needs Improvement
